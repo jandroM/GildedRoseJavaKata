@@ -1,4 +1,4 @@
-# GildedRoseKotlinKata
+# GildedRoseJavaKata
 
 ## Credits
 Inspired by [Emily Bache](https://github.com/emilybache/GildedRose-Refactoring-Kata)
